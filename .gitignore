@@ -1,0 +1,11 @@
+## this is gitignore file to untrack some specified files
+
+## untrack file or directories
+.idea
+test.cfg
+PictorialViewGit.png
+
+## ignore specific types of files
+*.exe
+*.pyc
+
