@@ -7,3 +7,5 @@ if hungry == "Yes":
 else:
     print("DO nothing")
     
+print("End of file reach")    
+    
